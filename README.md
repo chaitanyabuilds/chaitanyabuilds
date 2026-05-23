@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Chaitanya 👋
 
-<!--
-**chaitanyabuilds/chaitanyabuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on Full Stack Development, Java, Python, DSA, and Data-Driven Applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- MERN Stack
+- Java
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Advanced Full Stack Development
+- Machine Learning
+- Backend Architecture
+- Scalable Applications
+
+## 🛠️ Building
+- MERN Stack Projects
+- DSA Solutions
+- Data Analysis Projects
+- AI/ML Projects
+
+## 🎯 Goals
+- Build impactful software
+- Improve problem-solving skills
+- Contribute to meaningful projects
