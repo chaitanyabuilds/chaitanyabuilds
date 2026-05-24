@@ -1,28 +1,35 @@
 # Hi, I'm Chaitanya 👋
 
-Software Developer focused on Full Stack Development, Java, Python, DSA, and Data-Driven Applications.
+Software Developer focused on building scalable full-stack applications, backend systems, and data-driven solutions using JavaScript, Java, and Python.
 
 ## 🚀 Tech Stack
-- MERN Stack
-- Java
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Data Analysis
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Databases: MongoDB, PostgreSQL
+- Languages: JavaScript, Java, Python
+- Core CS: Data Structures & Algorithms
+- Data & AI: Machine Learning, Data Analysis
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
+- Scalable Backend Architecture
+- System Design
 - Advanced Full Stack Development
-- Machine Learning
-- Backend Architecture
-- Scalable Applications
+- AI/ML Applications
 
-## 🛠️ Building
-- MERN Stack Projects
-- DSA Solutions
+## 🛠️ What I'm Building
+- MERN Stack Applications
+- Backend APIs & Services
 - Data Analysis Projects
-- AI/ML Projects
+- AI/ML-Based Tools
+- DSA & Problem-Solving Solutions
 
 ## 🎯 Goals
-- Build impactful software
-- Improve problem-solving skills
-- Contribute to meaningful projects
+- Build impactful software products
+- Strengthen problem-solving and system design skills
+- Contribute to meaningful open-source projects
+- Develop production-grade applications
+
+## 🌐 Connect With Me
+- LinkedIn
+- Portfolio
+- Email
