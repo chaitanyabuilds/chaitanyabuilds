@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
 # Hi, I'm Chaitanya 👋
 
 Software Developer focused on building scalable full-stack applications, backend systems, and data-driven solutions using JavaScript, Java, and Python.
