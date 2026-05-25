@@ -33,9 +33,9 @@ Software Developer focused on building scalable full-stack applications, backend
 - Develop production-grade applications
 
 ## 🌐 Connect With Me
-- LinkedIn
+- LinkedIn- https://www.linkedin.com/in/chaitanya-bargaje
 - Portfolio
-- Email
+- Email- chetanbargaje2006@gmail.com
 
 ## 📊 GitHub Stats
 
