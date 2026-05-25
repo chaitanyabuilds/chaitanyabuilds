@@ -33,6 +33,7 @@ Software Developer focused on building scalable full-stack applications, backend
 - LinkedIn
 - Portfolio
 - Email
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabuilds&show_icons=true&theme=tokyonight)
