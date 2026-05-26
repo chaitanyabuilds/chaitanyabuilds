@@ -39,8 +39,6 @@ Software Developer focused on building scalable full-stack applications, backend
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitanyabuilds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
